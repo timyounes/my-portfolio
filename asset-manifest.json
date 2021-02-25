@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.286f850a.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.286f850a.chunk.js.map",
-    "runtime-main.js": "/my-portfolio/static/js/runtime-main.ec1bad13.js",
-    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.ec1bad13.js.map",
-    "static/js/2.eb496acd.chunk.js": "/my-portfolio/static/js/2.eb496acd.chunk.js",
-    "static/js/2.eb496acd.chunk.js.map": "/my-portfolio/static/js/2.eb496acd.chunk.js.map",
-    "index.html": "/my-portfolio/index.html",
-    "precache-manifest.a00f6caef282769bab90205f7ded0004.js": "/my-portfolio/precache-manifest.a00f6caef282769bab90205f7ded0004.js",
-    "service-worker.js": "/my-portfolio/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/my-portfolio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.eb496acd.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.eb496acd.chunk.js.LICENSE.txt"
+    "main.css": "/timyounes/my-portfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/timyounes/my-portfolio/static/js/main.27538f00.chunk.js",
+    "main.js.map": "/timyounes/my-portfolio/static/js/main.27538f00.chunk.js.map",
+    "runtime-main.js": "/timyounes/my-portfolio/static/js/runtime-main.a20ba31e.js",
+    "runtime-main.js.map": "/timyounes/my-portfolio/static/js/runtime-main.a20ba31e.js.map",
+    "static/js/2.eb496acd.chunk.js": "/timyounes/my-portfolio/static/js/2.eb496acd.chunk.js",
+    "static/js/2.eb496acd.chunk.js.map": "/timyounes/my-portfolio/static/js/2.eb496acd.chunk.js.map",
+    "index.html": "/timyounes/my-portfolio/index.html",
+    "precache-manifest.30fcab5acb13d7eabfb82898c7094abb.js": "/timyounes/my-portfolio/precache-manifest.30fcab5acb13d7eabfb82898c7094abb.js",
+    "service-worker.js": "/timyounes/my-portfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/timyounes/my-portfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eb496acd.chunk.js.LICENSE.txt": "/timyounes/my-portfolio/static/js/2.eb496acd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec1bad13.js",
+    "static/js/runtime-main.a20ba31e.js",
     "static/js/2.eb496acd.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.286f850a.chunk.js"
+    "static/js/main.27538f00.chunk.js"
   ]
 }
