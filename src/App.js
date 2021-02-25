@@ -52,16 +52,16 @@ function App() {
                 </div>
                 <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
                 <div class="social-icons">
-                    <a href="#">
+                    <a href="https://www.linkedin.com/in/adhantimothyyounes/">
                         <i class="fab fa-linkedin-in"></i>
                     </a>
-                    <a href="#">
+                    <a href="https://github.com/timyounes">
                         <i class="fab fa-github"></i>
                     </a>
-                    <a href="#">
+                    <a href="https://twitter.com/YounesAdhan">
                         <i class="fab fa-twitter"></i>
                     </a>
-                    <a href="#">
+                    <a href="https://www.facebook.com/adhantimothyyounes/">
                         <i class="fab fa-facebook-f"></i>
                     </a>
                 </div>
